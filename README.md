@@ -27,3 +27,7 @@ python3 -m venv .venv
 FFmpeg and Deno are not bundled. Clipdown detects both on `PATH` and shows their status. Install FFmpeg if the chosen format requires stream merging, and Deno for the strongest YouTube extraction support.
 
 Only download media that you have the right and permission to save.
+
+## Contributors
+
+- [@codex](https://github.com/codex) — AI coding assistance
