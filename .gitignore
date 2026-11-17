@@ -3,5 +3,8 @@ __pycache__/
 *.py[cod]
 build/
 dist/
-*.spec
 .DS_Store
+
+# Local packaging metadata and design-tool state
+clipdown.egg-info/
+.impeccable/
