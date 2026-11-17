@@ -1,0 +1,1 @@
+"""Clipdown desktop application."""
